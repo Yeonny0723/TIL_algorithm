@@ -8,4 +8,4 @@ Here I record everyday's takeaway
 
 
 # 사용 언어
-> python 3.6, c++를 사용합니다 
+> python 3.6을 사용합니다 
