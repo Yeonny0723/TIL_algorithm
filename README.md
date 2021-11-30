@@ -2,7 +2,6 @@
 Here I record everyday's takeaway
 
 # 알고리즘 풀이
-======
 > 알고리즘 문제풀이 저장소입니다
 
 # 폴더 구조
